@@ -15,6 +15,6 @@ Upon completion of this module, students will be able to:
 
 This module was adapted to align with the 4DEE Framework as part of a Faculty Mentoring Network.
 
-## Cite this work: Sara Hansen, Anna Monfils, Debra Linton (2023). Building Biodiversity Datasets for Invasive Species. Biodiversity Literacy in Undergraduate Education, (Version 3.0). QUBES Educational Resources. doi:10.25334/7G20-HK17
+### Cite this work: Sara Hansen, Anna Monfils, Debra Linton (2023). Building Biodiversity Datasets for Invasive Species. Biodiversity Literacy in Undergraduate Education, (Version 3.0). QUBES Educational Resources. doi:10.25334/7G20-HK17
 
 See the QUBES Hub page for the instructor version and answer key, which require an instructor account.
