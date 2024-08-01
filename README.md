@@ -1,4 +1,4 @@
-Building Biodiversity Datasets
+# Building Biodiversity Datasets
 
 Invasive species and associated ecosystem changes are a threat to global biodiversity. European frog-bit (_Hydrocharis morsus-ranae_ L.) is an invasive aquatic plant introduced to North America in 1932 and spreading throughout southern Canada and the northeastern and midwestern United States (Minshall 1940, Dore 1968, Hansen et al. 2022). Data are critical for understanding two questions: 1) How is this species spreading? and 2) How does this species impact the ecosystems it spreads to? In this module, students will explore the first question by accessing publicly available data and analyzing them through maps and reflecting on ways humans can impact the spread of European frog-bit. They will read about the effects of invasive aquatic plants and design a data template that could be used to sample European frog-bit and its habitat in Saginaw Bay, Michigan. By completing these activities, students should gain an understanding of how data inform invasive species research and conservation and be able to design and apply data using best practices.
 
